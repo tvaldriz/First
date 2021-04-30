@@ -2,8 +2,6 @@
 
 ## Thomas Valdriz
 
-[Email](tvaldriz@uw.edu)
-
 [LinkedIn](https://www.linkedin.com/in/thomas-valdriz/)
 
 [Twitter](https://www.linkedin.com/in/thomas-valdriz/)
