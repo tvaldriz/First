@@ -23,7 +23,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Email](tvaldriz@uw.edu)
+[LinkedIn](https://www.linkedin.com/in/thomas-valdriz/)
+[Twitter](https://www.linkedin.com/in/thomas-valdriz/)
+[Github](https://github.com/tvaldriz/)
+and ![Image](https://commons.wikimedia.org/wiki/Seattle#/media/File:Space_Needle_with_skyline_and_Mount_Rainier_at_sunset,_2000_(3293292089).jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
